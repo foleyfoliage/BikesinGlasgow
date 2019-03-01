@@ -1,0 +1,15 @@
+body {
+  min-height: 2000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.fa {
+  font-size:60px;
+}
+
+.thumbnail {
+  width: 100%;
+}
